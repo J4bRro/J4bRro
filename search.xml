@@ -2,6 +2,19 @@
 <search> 
   
   
+    
+    <entry>
+      <title>Welcome</title>
+      <link href="/2019/03/25/Welcome/"/>
+      <url>/2019/03/25/Welcome/</url>
+      
+        <content type="html"><![CDATA[<p>There is my blog</p><figure class="highlight c++"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><span class="line"><span class="meta">#<span class="meta-keyword">include</span><span class="meta-string">&lt;iostream&gt;</span></span></span><br><span class="line"><span class="keyword">using</span> <span class="keyword">namespace</span> <span class="built_in">std</span>;</span><br><span class="line"><span class="function"><span class="keyword">int</span> <span class="title">main</span><span class="params">()</span></span></span><br><span class="line"><span class="function"></span>&#123;</span><br><span class="line">    <span class="built_in">cout</span>&lt;&lt;<span class="string">"Hello world!"</span>;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure><blockquote><p><strong>“Life is short(you need Python)”</strong></p><p>– <em>Bruce Eckel</em></p><p><em>ANSI C++ Comitee member</em></p></blockquote><figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">print(<span class="string">"Hello world!"</span>)</span><br></pre></td></tr></table></figure>]]></content>
+      
+      
+      
+    </entry>
+    
+    
   
   
 </search>
